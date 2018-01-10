@@ -48,7 +48,7 @@
 
         init: function () {
 			
-			this.codeRender();
+	    this.codeRender();
 
             this.defineDems();
 
